@@ -11004,6 +11004,17 @@ p {
   }
 }
 
+.noctura-menu {
+  font-size: 0.9rem;
+}
+
+.noctura-menu-item {
+  border-bottom: 1px solid rgba(230, 167, 86, 0.5);
+  padding-bottom: 0.25rem;
+  margin-bottom: 1rem;
+  font-style: italic;
+}
+
 .list-hours {
   font-size: 0.9rem;
 }
